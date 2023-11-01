@@ -19,11 +19,23 @@ To exit the program, choose option 4. The application will bid you farewell and 
 2. Open a terminal and navigate to the repository's directory.
 3. Run the application by executing the following command:
 
-   '''p
    python Task_manager.py
 
 1. Follow the on-screen menu instructions to interact with the application.
 2. Enjoy organized task management!
 
-3. 
-   
+## Customization
+You can customize this application to suit your specific needs. Here are some tips:
+
+* Modify the messages and prompts in the code to match your preferred style.
+* Add more features or options to the menu to enhance functionality.
+* Change the application's name and branding to make it your own.
+
+## Author
+
+Hasnain kherani
+
+## Acknowledgments
+
+Thanks to the open-source community for inspiring and providing resources for this project.
+Feel free to customize, enhance, and share this to-do list application with the world! Happy task management!
