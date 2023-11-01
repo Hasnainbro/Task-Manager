@@ -18,7 +18,9 @@ To exit the program, choose option 4. The application will bid you farewell and 
 1. Clone or download this repository to your local machine.
 2. Open a terminal and navigate to the repository's directory.
 3. Run the application by executing the following command:
-   '''p python Task_manager.py
+
+   '''p
+   python Task_manager.py
 
 1. Follow the on-screen menu instructions to interact with the application.
 2. Enjoy organized task management!
